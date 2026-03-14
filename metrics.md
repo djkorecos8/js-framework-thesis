@@ -1,0 +1,1 @@
+**Days Since React 18 Release (to Jan 15, 2025):** 1031 days
